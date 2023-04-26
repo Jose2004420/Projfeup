@@ -3,7 +3,7 @@
 namespace prog {
     //Default constructor. By default, the color should correspond to black, i.e., (0, 0, 0).
     Color::Color() {
-        rgb_value  ./   zero=0;
+        rgb_value zero=0;
         r= zero;
         g= zero;
         b= zero;
